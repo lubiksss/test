@@ -7,5 +7,6 @@ public class collection{
 		List<Integer> list = new ArrayList<>();
 		list.add(10);
 		System.out.println(list);
+		System.out.println(list);
 	}
 }
